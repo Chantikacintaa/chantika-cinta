@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676cac99d1cf4e78f3c73bfc"
+  },
+  "id": "001",
+  "hari": "senin",
+  "waktu": "08.00-.09.00",
+  "jenis latihan": "kardio",
+  "instruktur": "rina wanyuni"
+},
+{
+  "_id": {
+    "$oid": "676caccfd1cf4e78f3c73bfd"
+  },
+  "id": "002",
+  "hari": "selasa",
+  "waktu": "09.00-.10.00",
+  "jenis latihan": "yoga",
+  "instruktur": "budi hartono"
+}]

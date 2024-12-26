@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676cab7ad1cf4e78f3c73bfa"
+  },
+  "nama": "claudia",
+  "tanggal pembayaran": "20-03-2024",
+  "jumlah pembayaran": "50.000",
+  "metode pemabayaran": "kredit"
+},
+{
+  "_id": {
+    "$oid": "676caba3d1cf4e78f3c73bfb"
+  },
+  "nama": "suci",
+  "tanggal pembayaran": "20-02-2024",
+  "jumlah pembayaran": "70.000",
+  "metode pemabayaran": "tunai"
+}]

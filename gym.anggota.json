@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "676ca8f7d1cf4e78f3c73bf8"
+  },
+  "id": "in primary key",
+  "nama": "claudia septia",
+  "alamat": "depok",
+  "tanggal lahir": "20-02-2003",
+  "jenis kelamin": "perempuan",
+  "notelpon": "082245673245",
+  "email": "caludia.bio"
+},
+{
+  "_id": {
+    "$oid": "676ca966d1cf4e78f3c73bf9"
+  },
+  "id": "in primary key",
+  "nama": "suci",
+  "alamat": "depok",
+  "tanggal lahir": "2-01-2004",
+  "jenis kelamin": "perempuan",
+  "notelpon": "08221256898",
+  "email": "suci.bio"
+}]

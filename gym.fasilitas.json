@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676cadc8d1cf4e78f3c73bfe"
+  },
+  "id": "001",
+  "nama fasilitas": "fasilitas kardio",
+  "keterangan": "tersedia",
+  "kapasitas": "20 orang"
+},
+{
+  "_id": {
+    "$oid": "676cade4d1cf4e78f3c73bff"
+  },
+  "id": "002",
+  "nama fasilitas": "fasilitas beban",
+  "keterangan": "tersedia",
+  "kapasitas": "10 orang"
+}]
